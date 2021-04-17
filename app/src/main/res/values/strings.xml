@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fingerprint App</string>
+    <string name="click_to_authenticate">Click here to authenticate</string>
+    <string name="authenticate">Finger Here</string>
 </resources>
